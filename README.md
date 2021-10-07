@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Gitter](https://badges.gitter.im/scikit-multiflow/community.svg)](https://gitter.im/scikit-multiflow/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-`scikit-multiflow` is a machine learning package for streaming data in Python.
+`scikit-multiflow` is machine learning package for streaming data in Python.
 
 ---
 
